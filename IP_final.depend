@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1578570901 source:c:\users\hp\desktop\clearning\ip_final\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	"Piesa.h"
+	"Tabla.h"
+
+1578511468 c:\users\hp\desktop\clearning\ip_final\piesa.h
+	<graphics.h>
+	<winbgim.h>
+
+1578570982 c:\users\hp\desktop\clearning\ip_final\tabla.h
+	<graphics.h>
+	<winbgim.h>
+	"Piesa.h"
+
